@@ -1,6 +1,6 @@
 ---
-title: "Kava - The first decentralized lending platform in Cosmos"
-description: "This post is introduction to Kava blockchain"
+title: "Vision of Cosmos network"
+description: "This post is introduction to Cosmos network vision"
 date: 2019-09-03
 thumbnail: 'http://url-to-thumbnail.jpg'
 heroImage: 'https://imgur.com/Xtit0D2.jpg'
