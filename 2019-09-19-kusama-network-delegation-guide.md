@@ -16,6 +16,8 @@ company:
 
 *If you participated in a Polkadot fundraiser and received your DOT indicator tokens you can claim KSM with your original Ethereum address.* 
 
+[TOC]
+
 # Create an account on Kusama network
 
 First, you need to create a Kusama account. Visit [Polkadot UI](https://polkadot.js.org/apps/#/accounts), go to `Settings` tab and select `address prefix`.
