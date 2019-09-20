@@ -45,7 +45,7 @@ Users will begin staking in the wallet they used to by choosing a validator from
 
 **Staking module will help to raise awareness about staking as a new type of economy.** We will add more networks to offer various(diversified) staking opportunities accessible in one click and available in one place to make the product even more attractive. As more service providers will integrate it more users will join Proof-Of-Stake ecosystem making networks more decentralized and sustainable in the long term. 
 
-Environment where small validators earn sufficient revenues to operate secure infrastructure will increase the overall stability of the network. Validators will contribute real value to the ecosystem if they will be free from the thoughts about survival. 
+**Environment where small validators earn sufficient revenues to operate secure infrastructure will increase the overall stability of the network.** Validators will contribute real value to the ecosystem if they will be free from the thoughts about survival. 
 
 # Initial phase of Staking API
 
