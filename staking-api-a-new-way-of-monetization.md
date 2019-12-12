@@ -1,22 +1,22 @@
-***Вводная картинка***
+***Вводная картинка*** (Defi.APi)
 
 Proof-Of-Stake ecosystem is still in its infancy and many people in the crypto world are still unfamiliar with the concept. Concerns around zero commission and frustration related to finding a balance between sufficient fees to operate as a profitable validator motivated us to look for a solution. We came up with a single idea that may bring new users into the space, cause positive impact and transform the staking ecosystem in general.
 
 # DeFi API
 
-We are happy to present **DeFi API - API for decentralized finance**
+We are happy to present **DeFi API - API for decentralized finance.**
 
-DeFi API includes various modules. The first module we've built is a staking module. *It will allow anyone to easily monetize existing userbases by offering staking opportunities*.
+DeFi API includes various modules. The first module we've built is a staking module. *It will allow anyone to easily monetize existing users by offering staking opportunities*.
 
 There are three types of participants that will benefit from a staking module and it is a win-win solution for all of them:
 
-- *Influencers* are non-custodial wallets or exchanges that offer users a convenient UI and UX to store or trade crypto assets. It also may be a blog, or even a person who is able to aggregate users 
+- *Partners* are non-custodial wallets or exchanges that offer users a convenient UI and UX to store or trade crypto assets. It also may be a blog, or even a person who is able to aggregate users 
 - *Validators* are staking providers interested in continuous customer flow and generating revenue to provide secure validation services
 - *Users* are people who have interests  in crypto space and are looking for additional revenue
 
 Now let's take a closer look at the benefits for each of them and at the positive outcomes for the network in general.
 
-## Influencers
+## Partners
 
 **For existing decentralized wallets the question of user base monetization is a core priority and in many cases a vital component for survival.** Staking module is a cure with no side effects, an easy option to add a continuous revenue stream from staking with the ability to track payouts in a personal cabinet using the built-in monitoring tool with all the necessary data.
 
@@ -28,14 +28,12 @@ Now let's take a closer look at the benefits for each of them and at the positiv
 
 One of the hottest topics in Proof-Of-Stake ecosystem relates to the ability of small but robust validators to attract enough delegators without commission rate dumping, and earn sufficient revenue to maintain a reliable staking infrastructure.
 
-**Staking module becomes a marketplace for validators with thousands of potential customers.** After listing they become available to an enormous number of potential delegators aggregated by userbase owners who utilize staking module API.  When users stake, userbase owners are rewarded with a share of validator commission charged from staking earnings. Each validator also has a personal cabinet for monitoring payouts and delegation statistics.
+**Staking module becomes a marketplace for validators with thousands of potential customers.** After listing they become available to an enormous number of potential delegators aggregated by userbase owners who utilize staking module API.  When users stake, partners are rewarded with a share of validator's commission charged from staking earnings. Each validator will have a personal cabinet for monitoring payouts and delegation statistics.
 
-This concept shifts the existing paradigm from zero-fee commission and offers an end to price wars without enforcement on a protocol level:
+This concept shifts the existing paradigm from zero-fee commission and offers a solution to the problem of price wars without enforcement on a protocol level:
 
-- **Influencers are incentivized to maximize their revenue and promote validators with optimal commission rates.** This may reduce the voting power concentration of zero-fee validators and revise the perception of this issue. Market forces will help validators experimenting with commission rates to find an optimal strategy and avoid a race to the bottom.
-- **Small validators will be able to compete with bigger ones without commission fee dumping.** If delegation to such validators is economically feasible, userbase owners will promote them. Listing on a staking module is an easy way to attract potential delegators at low cost and a great opportunity to increase earnings that could be spent on security and infrastructure improvement.
-
-***Картинки личного кабинета со стороны валидаторов, пример статистики***
+- **Partners are incentivized to maximize their revenue and promote validators with optimal commission rates.** This may reduce the voting power concentration of zero-fee validators and revise the perception of this issue. Market forces will help validators experimenting with commission rates to find an optimal strategy and avoid a race to the bottom.
+- **Small validators will be able to compete with bigger ones.** If delegation to such validators is economically feasible, partners will promote them. Listing on a staking module is an easy way to attract potential delegators at low cost and a great opportunity to increase earnings that could be spent on security and infrastructure improvement.
 
 ## Users
 
@@ -49,17 +47,17 @@ Users will begin staking in the wallet they are used to by choosing a validator 
 
 # Initial phase of Staking API
 
-Staking API minimal viable product (MVP) is ready and initially it will allow influencers to offer ATOM staking with validators listed on the marketplace.
+Staking API minimal viable product (MVP) is ready and initially it will allow partners to offer ATOM staking with validators listed on the marketplace.
 
-We are also proud to announce that initial validator's list will consist of highly reputable staking providers: Certus One, B-Harvest, P2P Validator, Ztake, SimpleVC and Forbole.
+We are also proud to announce that initial validator's list will consist of highly reputable staking providers: [Certus One](https://certus.one/), [Node A-Team](https://nodeateam.com/), [Validator.network](https://validator.network/), [P2P Validator](https://p2p.org/), [Ztake](https://ztake.org/).
 
 ***Картинкa-визитка: лого DeFi API + логотипы валидаторов***
 
-We are excited to announce that in(at) the first stage AtomicWallet (with existing user base of 100 000 DAU and other stats?) joined Staking API as a service provider.
+We are excited to announce that in(at) the first stage [imToken](https://token.im/) - wallet with existing user base of 100 000 DAU and other stats?) joined Staking API as a partner and lead generator.
 
-***Картинкa-визитка: лого DeFi API + логотип AtomicWallet***
+***Картинкa-визитка: лого DeFi API + логотип imToken***
 
-For P2P Validator it is a separate product. We provide a platform with necessary tools to track delegations and payouts and offer simple entrance into staking connecting service providers with the most prominent validators in the space of Proof-Of-Stake ecosystem. After the short testing phase we will open the marketplace for everyone and begin onboarding new partners on continuous basis. 
+For P2P Validator it is a separate product. We provide a platform with necessary tools to track delegations and payouts and offer simple entrance into staking connecting service providers with the most prominent validators in the space.
 
 ---
 
@@ -69,6 +67,6 @@ For P2P Validator it is a separate product. We provide a platform with necessary
 
 **P2P Validator** offers high-quality staking facilities and provides up to date information for educational purposes. Stay tuned for updates and new blog posts.
 
-**Twitter:**[ @p2pvalidator](https://twitter.com/p2pvalidator)
+**Twitter:**[@defiapi](https://twitter.com/defiapi)
 
 **Telegram:**[ https://t.me/p2pvalidator](https://t.me/p2pvalidator)
