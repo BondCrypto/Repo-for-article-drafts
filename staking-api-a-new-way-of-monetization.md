@@ -49,7 +49,7 @@ Staking API minimal viable product (MVP) is ready and initially it will allow pa
 
 ---
 
-*Join as a partner wallet, exchange or validator at [defiapi.com](defiapi.com)*
+*Join DeFi API as a partner wallet, exchange or validator at [defiapi.com](defiapi.com)*
 
 ---
 
