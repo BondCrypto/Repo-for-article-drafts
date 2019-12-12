@@ -1,6 +1,6 @@
 ***Вводная картинка*** (Defi.APi)
 
-Proof-Of-Stake ecosystem is still in its infancy and many people in the crypto world are still unfamiliar with the concept. Concerns around zero commission and frustration related to finding a balance between sufficient fees to operate as a profitable validator motivated us to look for a solution. We came up with a single idea that may bring new users into the space, cause positive impact and transform the staking ecosystem in general.
+Proof-Of-Stake ecosystem is still in its infancy and many people in the crypto world are still unfamiliar with the concept. Uncertainties related to choosing an optimal commission rate and finding a balance between sufficient fees to operate a profitable validator motivated us to look for a solution. We came up with a single idea that may bring new users into the space, cause positive impact and transform the staking ecosystem in general.
 
 # DeFi API
 
