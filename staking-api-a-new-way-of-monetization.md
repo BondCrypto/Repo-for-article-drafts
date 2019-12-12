@@ -30,7 +30,7 @@ One of the hottest topics in Proof-Of-Stake ecosystem relates to the ability of 
 
 **Staking module becomes a marketplace for validators with hundreds thousands of potential customers.** After listing they become available to an enormous number of potential delegators aggregated by wallets who utilize staking module API.  When users stake, partners are rewarded with a share of validator's commission charged from staking earnings.
 
-This concept shifts the existing paradigm from zero-fee commission and offers a solution to the problem of price wars without enforcement on a protocol level:
+What are the prosperities (advantages)?
 
 - **Partners are incentivized to maximize their revenue and promote validators with optimal commission rates.** This may reduce the voting power concentration of zero-fee validators and revise the perception of this issue. Market forces will help validators experimenting with commission rates to find an optimal strategy and avoid a race to the bottom.
 - **Small validators will be able to compete with bigger ones.** If delegation to such validators is economically feasible, partners will promote them. Listing on a staking module is an easy way to attract potential delegators at low cost and a great opportunity to increase earnings that could be spent on security and infrastructure improvement.
