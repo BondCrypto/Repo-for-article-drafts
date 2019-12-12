@@ -10,13 +10,13 @@ DeFi API includes various modules. The first module we've built is a staking mod
 
 There are three types of participants that will benefit from a staking module and it is a win-win solution for all of them:
 
-- *Partners* are non-custodial wallets or exchanges that offer users a convenient UI and UX to store or trade crypto assets. It also may be a blog, or even a person who is able to aggregate users 
+- *Partners* are **non-custodial wallets or exchanges** that offer users a convenient UI and UX to store or trade crypto assets. It also may be a blog, or even a person who is able to aggregate users 
 - *Validators* are staking providers interested in continuous customer flow and generating revenue to provide secure validation services
 - *Users* are people who have interests  in crypto space and are looking for additional revenue
 
 Now let's take a closer look at the benefits for each of them and at the positive outcomes for the network in general.
 
-## Partners
+## Wallets & Exchanges
 
 **For existing decentralized wallets the question of user base monetization is a core priority and in many cases a vital component for survival.** Staking module is a cure with no side effects, an easy option to add a continuous revenue stream from staking with the ability to track payouts in a personal cabinet using the built-in monitoring tool with all the necessary data.
 
@@ -28,7 +28,7 @@ Now let's take a closer look at the benefits for each of them and at the positiv
 
 One of the hottest topics in Proof-Of-Stake ecosystem relates to the ability of small but robust validators to attract enough delegators without commission rate dumping, and earn sufficient revenue to maintain a reliable staking infrastructure.
 
-**Staking module becomes a marketplace for validators with thousands of potential customers.** After listing they become available to an enormous number of potential delegators aggregated by userbase owners who utilize staking module API.  When users stake, partners are rewarded with a share of validator's commission charged from staking earnings. Each validator will have a personal cabinet for monitoring payouts and delegation statistics.
+**Staking module becomes a marketplace for validators with hundreds thousands of potential customers.** After listing they become available to an enormous number of potential delegators aggregated by wallets who utilize staking module API.  When users stake, partners are rewarded with a share of validator's commission charged from staking earnings.
 
 This concept shifts the existing paradigm from zero-fee commission and offers a solution to the problem of price wars without enforcement on a protocol level:
 
