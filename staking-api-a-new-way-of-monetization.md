@@ -49,19 +49,9 @@ Users will begin staking in the wallet they are used to by choosing a validator 
 
 Staking API minimal viable product (MVP) is ready and initially it will allow partners to offer ATOM staking with validators listed on the marketplace.
 
-We are also proud to announce that initial validator's list will consist of highly reputable staking providers: [Certus One](https://certus.one/), [Node A-Team](https://nodeateam.com/), [Validator.network](https://validator.network/), [P2P Validator](https://p2p.org/), [Ztake](https://ztake.org/).
-
-***Картинкa-визитка: лого DeFi API + логотипы валидаторов***
-
-We are excited to announce that in(at) the first stage [imToken](https://token.im/) - wallet with existing user base of 100 000 DAU and other stats?) joined Staking API as a partner and lead generator.
-
-***Картинкa-визитка: лого DeFi API + логотип imToken***
-
-For P2P Validator it is a separate product. We provide a platform with necessary tools to track delegations and payouts and offer simple entrance into staking connecting service providers with the most prominent validators in the space.
-
 ---
 
-*To join as a service provider or validator visit our website: [defiapi.com](defiapi.com)*
+*Join as a partner wallet, exchange or validator at [defiapi.com](defiapi.com)*
 
 ---
 
@@ -69,4 +59,3 @@ For P2P Validator it is a separate product. We provide a platform with necessary
 
 **Twitter:**[@defiapi](https://twitter.com/defiapi)
 
-**Telegram:**[ https://t.me/p2pvalidator](https://t.me/p2pvalidator)
