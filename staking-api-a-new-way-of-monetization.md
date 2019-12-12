@@ -22,8 +22,6 @@ Now let's take a closer look at the benefits for each of them and at the positiv
 
 **Staking module brings monetization opportunity where it didn't exist before.** If wallet or exchange doesn't support staking, developers can easily implement a staking module (staking API), use a set of prepared libraries and get all the data for the UI in a few lines of code to offer staking opportunities with zero effort. With additional revenue wallets will be able to attract more clients, compete better and sustain long term development.
 
-***Картинки личного кабинета со стороны кошельков***
-
 ## Validators
 
 One of the hottest topics in Proof-Of-Stake ecosystem relates to the ability of small but robust validators to attract enough delegators without commission rate dumping, and earn sufficient revenue to maintain a reliable staking infrastructure.
