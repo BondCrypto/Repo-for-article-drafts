@@ -1,0 +1,74 @@
+---
+title: "P2P Validator: looking back, looking forward..."
+description: "Retrospective of 2019 by P2P Validator"
+date: 2019-12-30
+thumbnail: 'http://url-to-thumbnail.jpg'
+heroImage: 'https://imgur.com/DcKIp2d.jpg'
+layout: Post
+category:
+  - economy
+authors:
+  - AlexBond
+company:
+ - p2p
+---
+
+2019 was a year chock full with meaningful events in staking space. It was marked by the launch of [Cosmos Hub](https://hub.cosmos.network/), [Terra money](https://terra.money/), [IRIS network](https://www.irisnet.org/), [Algorand](https://www.algorand.com/), [Kusama network](https://kusama.network/), [Kava](https://www.kava.io/) and many other Proof-Of-Stake based blockchains on mainnet.
+
+We watched lots of development activities across various systems, solid projects with high potential for finding market fit launched incentivized testnets. [Solana](https://solana.com/) and [Celo](https://celo.org/) are amongst them.
+
+**We participated in every on-chain governance** in [Tezos](https://tezos.com/), Cosmos Hub and IRIS network and there was a great feeling of true collaboration between stakeholders who are really interested in the best possible future for the ecosystem.
+
+In 2019 [Cosmos ecosystem](https://cosmonauts.world/) grew to over 100 projects and [Tezos ecosystem](https://tezosprojects.com/) attracted over 1000 developers to facilitate continuous building. The Proof-Of-Stake space is still highly experimental and we are excited to be at the front of the movement to a fair and efficient future.
+
+# P2P Validator vision
+
+Since January 1st of 2019, asset value locked in staking increased nine times over and [reached $6,5B](https://www.stakingrewards.com/global-charts). We are absolutely confident that the **Proof-Of-Stake ecosystem will continue to grow**. With this in mind, P2P Validator will continue to extend communities of enthusiasts and developers. We will show them the best ways of staking and the various opportunities offered by novel business models across the networks we support.
+
+We will also **focus on making staking as simple, secure and attractive as possible**. For us being a reliable validator is a key business activity, while exchanges focus mostly on trading and other financial operations. Every project has its own risk profile in our opinion using exchanges as a staking provider results in additional risks. 
+
+**Non-custodial staking** allows every user to be in control of their assets eliminating risks associated with third parties and **represents the safest way of participating in the ecosystem, especially for big investors**. Our goal is to simplify interactions with hardware wallets by UI and be competitive in terms of various complementary services.
+
+As of today, we provide validation services for 8+ networks including testnets and **plan to support more groundbreaking projects** that have competitive advantages and a clear go-to market strategy. The process of making decisions about joining a network is complex as our resources and ability to add sufficient value are limited. As part of this, we are closely watching the development of [Dfinity](https://dfinity.org/), [NuCypher](https://www.nucypher.com/), [Telegram Open Network](https://test.ton.org/tblkch.pdf), [Polkadot Network](https://polkadot.network/), and projects emerging in the Cosmos ecosystem. We have also joined [Chainlink](https://chain.link/) as a node operator to improve decentralization of an oracle network and help solving the lack of real-world data for smart-contracts.
+
+# Our achievements
+
+We started as a small bakery in Tezos with only $2m value delegated with us, most of it our own funds. Today over $35m is locked in staking through our infrastructure across 8+ blockchains and more than 700 delegators use our services trusting our expertise.
+
+For our Tezos delegators we **insured all payouts** and **have shortened** the time before the first **payout by 40%** eliminating the 5 cycle freeze for rewards. In addition, we achieved **stable AAA+ rating** on MyTezosBaker with **over 100% baking efficiency** according to [TezosNodes](https://www.tezos-nodes.com/) reaching the **top 5 Tezos validators** by staking balance. We are proud to be such a robust staking partner and we will continue to do our best to remain so and improve further.
+
+To contribute to building the community we conducted the first meetup related to Cosmos network in Moscow featuring Cosmos Hub and Kava. **Meetup attracted over 100 developers and enthusiasts showing the huge interest in this ecosystem**. We co-organized with [Baking Bad](https://baking-bad.org/) The First Tezos Moscow meetup supported by [Tezos Commons](https://tezoscommons.org/). If you missed it you can watch a [recording ](https://www.youtube.com/channel/UC4O5M30Exrg1abhacOJKUVw)with English subtitles[ ](https://www.youtube.com/channel/UC4O5M30Exrg1abhacOJKUVw)here.
+
+We were **one of the winners of Cosmos Game Of Stakes** and participated in incentivized testnets of IRIS Network, Terra Money, DAO BET, Cyberway, Kava, Kusama Network since the beginning providing validation services **on mainnet since the first day**. Overall, the uptime of our nodes across all networks is 99,98%. This is a good measurement of our availability and the robustness of our setup. **We haven't experienced any downtime or double-sign slashing** even in the case of a Google Cloud provider crash as we had set **best class monitoring and alert systems** working for the convenience of our delegators 24/7.
+
+# 7 reasons to add P2P Validator to your favorites list
+
+Here are some perks and useful components of our services:
+
+1. Safe and simple non-custodial staking with Ledger delegation tools
+2. Friendly and expert support
+3. Secure infrastructure with 24/7 monitoring and alert systems
+4. Special conditions starting from $500k
+5. Intuitive multi-asset dashboard to track staking portfolio performance in one place
+6. Creation of valuable educational content plus active online & offline community building 
+7. Professional team with a high level of expertise in decentralized technologies since 2014
+
+# Final words
+
+P2P Validator is a growing start-up. Our team currently consists of 14 members and **we are looking for talented and open-minded people** to complement and extend our team. If you like what we do and believe in a decentralized future take a look at our open positions**[link GitHub]**.
+
+P2P Validator team wish everyone amazing holidays and a happy New Year. It was an eventful year but definitely a fundamental one for the further achievements.
+
+------
+
+*What do you think we should improve or implement in 2020? Leave us a comment. If you have any questions we are always at your service.*
+
+------
+
+**P2P Validator** offers high-quality staking facilities and provides up to date information for educational purposes. Stay tuned for updates and new blog posts.
+
+**Web:**[ https://p2p.org](https://p2p.org)
+
+**Twitter:**[ @p2pvalidator](https://twitter.com/p2pvalidator)
+
+**Telegram:**[ https://t.me/p2pvalidator](https://t.me/p2pvalidator)
