@@ -33,7 +33,7 @@ We are absolutely confident that the **Proof-Of-Stake ecosystem will continue to
 
 We will also **focus on making staking as simple, secure and attractive as possible**. For us being a reliable validator is a key business activity. Our focus here is on slashing risk minimization and active participation in governance of various platforms.
 
-**Non-custodial staking** allows every user to be in control of their assets eliminating risks associated with third parties and **represents the safest way of participating in the ecosystem, especially for big investors**. Our goal is to simplify interactions with hardware wallets by UI and be competitive in terms of various complementary services.
+**Non-custodial staking** allows every user to be in control of their assets eliminating risks associated with third parties and **represents the safest way of participating in the ecosystem, especially for big investors**. Our goal is to simplify interactions with hardware wallets by UI and be competitive in terms of various complementary services. Today, only at [p2p.org](https://p2p.org) you can delegate ATOM, KAVA and XTZ with ledger in one place using our simple delegation tool.
 
 As of today, we provide validation services for 15 networks including testnets and **plan to support more groundbreaking projects** that have competitive advantages and a clear go-to market strategy. The process of making decisions about joining a network is complex as our resources and ability to add sufficient value are limited. As part of this, we are closely watching the development of [Dfinity](https://dfinity.org/), [NuCypher](https://www.nucypher.com/), [Telegram Open Network](https://test.ton.org/tblkch.pdf), [Polkadot Network](https://polkadot.network/), and projects emerging in the Cosmos ecosystem. We have also joined [Chainlink](https://chain.link/) as a node operator to improve decentralization of an oracle network and help solving the lack of real-world data for smart-contracts.
 
@@ -43,25 +43,25 @@ We started as a small bakery in Tezos with only $2m value delegated with us, mos
 
 For our Tezos delegators we **insured all payouts** and **have shortened** the time before **the first payout by 40%** eliminating the 5 cycle freeze for rewards. In addition, we achieved **stable AAA+ rating** on MyTezosBaker with **over 100% baking efficiency** according to [TezosNodes](https://www.tezos-nodes.com/) reaching the **top 5 Tezos validators** by staking balance. We are proud to be such a robust staking partner and we will continue to do our best to remain so and improve further.
 
-To contribute to building the community we conducted the first meetup related to Cosmos network in Moscow featuring Cosmos Hub and Kava. Meetup attracted over 100 developers and enthusiasts showing the huge interest in this ecosystem. We co-organized with [Baking Bad](https://baking-bad.org/) The First Tezos Moscow meetup supported by [Tezos Commons](https://tezoscommons.org/). If you missed it you can watch a [recording](https://www.youtube.com/channel/UC4O5M30Exrg1abhacOJKUVw) with English subtitles.
-
-We were **one of the winners of Cosmos Game Of Stakes** and participated in incentivized testnets of IRIS Network, Terra Money, DAO BET, Cyberway, Kava, Kusama Network since the beginning providing validation services **on mainnet since the first day**. 
-
 Overall, the uptime of our nodes across all networks is 99,98%. This is a good measurement of our availability and the robustness of our setup. 
 
 **We haven't experienced any downtime or double-sign slashing** even in the case of a Google Cloud provider crash as we had set **best class monitoring and alert systems** working for the convenience of our delegators 24/7.
+
+To contribute to building the community we conducted the first meetup related to Cosmos network in Moscow. We co-organized with [Baking Bad](https://baking-bad.org/) the First Tezos Moscow meetup supported by [Tezos Commons](https://tezoscommons.org/). If you missed it you can watch a [recording](https://www.youtube.com/channel/UC4O5M30Exrg1abhacOJKUVw) with English subtitles.
+
+We were one of the winners of Cosmos Game Of Stakes and participated in incentivized testnets of IRIS Network, Terra Money, DAO BET, Cyberway, Kava, Kusama Network since the beginning providing validation services **on mainnet since the first day**. 
 
 # 7 reasons to add P2P Validator to your favorites list
 
 Here are some perks and useful components of our services:
 
-1. Safe and simple non-custodial staking with Ledger delegation tools
+1. Safe and simple non-custodial staking with Ledger delegation tool
 2. Friendly and expert support
 3. Secure infrastructure with 24/7 monitoring and alert systems
 4. Special conditions starting from $500k
 5. Intuitive multi-asset dashboard to track staking portfolio performance in one place
 6. Creation of valuable educational content plus active online & offline community building 
-7. Professional team with a high level of expertise in decentralized technologies since 2014
+7. Professional team with a high level of expertise in decentralized technologies since 2014. We are investing too and always put our own skin in the game  
 
 # Final words
 
@@ -75,7 +75,7 @@ P2P Validator team wish everyone amazing holidays and a happy New Year. It was a
 
 ------
 
-**P2P Validator** offers high-quality staking facilities and provides up to date information for educational purposes. Stay tuned for updates and new blog posts.
+**P2P Validator** offers Secure Non-Custodial Staking and provides up to date information for educational purposes. Stay tuned for updates and new blog posts.
 
 **Web:**[ https://p2p.org](https://p2p.org)
 
