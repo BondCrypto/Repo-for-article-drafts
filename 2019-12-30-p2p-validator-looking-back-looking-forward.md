@@ -60,7 +60,7 @@ We were one of the winners of Cosmos Game Of Stakes and participated in incentiv
 Here are some perks and useful components of our services:
 
 1. Simple Non-Custodial Staking with Ledger
-2. We are investing since 2014 and always put our own skin in the game
+2. We have been investing since 2014 and always put our own skin in the game
 3. Secure infrastructure with 24/7 monitoring and alert systems
 4. Special conditions starting from $500k
 5. Multi-asset dashboard to track staking portfolio in one place
