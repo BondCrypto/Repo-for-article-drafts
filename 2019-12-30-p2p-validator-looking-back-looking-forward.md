@@ -23,7 +23,13 @@ In 2019 [Cosmos ecosystem](https://cosmonauts.world/) grew to over 100 projects 
 
 # P2P Validator vision
 
-Since January 1st of 2019, asset value locked in staking increased nine times over and [reached $6,5B](https://www.stakingrewards.com/global-charts). We are absolutely confident that the **Proof-Of-Stake ecosystem will continue to grow**. With this in mind, P2P Validator will continue to extend communities of enthusiasts and developers. We will show them the best ways of staking and the various opportunities offered by novel business models across the networks we support.
+Since January 1st of 2019, asset value locked in staking increased nine times over and [reached $6,5B](https://www.stakingrewards.com/global-charts).
+
+![Locked in staking](https://imgur.com/5g7NdjQ.jpg)
+
+[^Pic. 1]: Data from stakingrewards.com
+
+We are absolutely confident that the **Proof-Of-Stake ecosystem will continue to grow**. With this in mind, P2P Validator will continue to extend communities of enthusiasts and developers. We will show them the best ways of staking and the various opportunities offered by novel business models across the networks we support.
 
 We will also **focus on making staking as simple, secure and attractive as possible**. For us being a reliable validator is a key business activity. Our focus here is on slashing risk minimization and active participation in governance of various platforms.
 
@@ -59,7 +65,7 @@ Here are some perks and useful components of our services:
 
 # Final words
 
-We want to thank all the teams around the globe who have worked hard this year to build such outstanding innovative projects making a decentralized future one step closer. It's an honor to be a part of such an open-minded community of professional validators and active contributors. We will continue to act positively, influence the ecosystem by increasing decentralization across various networks, educating people around the world and providing reliable staking services accessible to everyone.
+We want to thank all the teams around the globe who have worked hard this year to build such outstanding innovative projects bringing a decentralized future one step closer. It's an honor to be a part of such an open-minded community of professional validators and active contributors. We will continue to act positively influencing the ecosystem by increasing decentralization across various networks, educating people around the world and providing reliable staking services accessible to everyone.
 
 P2P Validator team wish everyone amazing holidays and a happy New Year. It was an eventful year but definitely a fundamental one for the further achievements.
 
