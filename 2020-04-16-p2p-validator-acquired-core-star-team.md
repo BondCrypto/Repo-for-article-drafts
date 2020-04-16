@@ -17,7 +17,7 @@ We are thrilled to announce that [Corestar](https://corestar.io) team joined P2P
 
 We are thrilled to announce that P2P Validator acquired [Corestar](https://corestar.io) team to create synergy in the development of decentralized ecosystems.  
 
-Our team have always been looking for ways to increase the value we add to the projects we work with. Comprehensive contribution to the most groundbreaking blockchains is an important piece of our long term vision. 
+Our team have always been looking for ways to add more value to the projects we work with. Comprehensive contribution is an important piece of our long term vision. 
 
 P2P Validator provides non-custodial staking including valuable tools for delegators, community building, educational enlightenment and *with acquisition of Corestar team we will add solid development activities to the scope of our capabilities*.
 
@@ -27,17 +27,19 @@ P2P Validator provides non-custodial staking including valuable tools for delega
 
 ![](https://imgur.com/W3nw23I.jpeg)
 
-In addition, Corestar received ICF grant to develop [Arcade](https://github.com/corestario/tendermint) - Tendermint implementation with built-in random beacon. Arcade will provide Cosmos application-specific blockchains with decentralized source of entropy to power various games and gambling platforms without changing security model of Tendermint.
+In addition, Corestar received ICF grant to develop [Arcade](https://github.com/corestario/tendermint) - Tendermint implementation with built-in random beacon. Arcade will provide application-specific blockchains in Cosmos ecosystem with decentralized source of entropy to power various games and gambling platforms without changing security model(assuptions) of Tendermint.
 
 *We believe that Corestar team will significantly strengthen our development department and benefit the Cosmos ecosystem.*
 
 ### Immediate perspectives
 
-IBC is the most important milestone for the success of Cosmos and the launch of incentivized testnet "[Game Of Zones](https://goz.cosmosnetwork.dev/)" is near at hand. As active contributor, P2P Validator will take part in the competition with additional development resources, ready to deliver. 
+IBC is currently the most important milestone for the success of Cosmos and the launch of incentivized testnet "[Game Of Zones](https://goz.cosmosnetwork.dev/)" is near at hand. As active contributor, P2P Validator will take part in the competition with additional development resources, ready to deliver. 
 
 We have prepared a [visualization](https://goz.p2p.org/) of handshakes between nodes to help participants monitor a current status of connections during the contest.
 
 ![](https://imgur.com/HG5ZbBv.jpeg)
+
+Proof-of-stake ecosystem is evolving really fast and we are fully prepared to facilitate that growth diving deep to the heart of decentralized technologies.
 
 ### About P2P Validator
 
